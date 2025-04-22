@@ -1,0 +1,15 @@
+# Test Case - Login com senha incorreta no Instagram
+
+*Objetivo:* Verifcar se o sistema exibe mensagem de erro ao tentar logar com senha errada
+
+## Passos:
+1. Acessar o site https://www.instagram.com/
+2. Inserir um nome de usuario válido
+3. Inserir uma senha incorreta
+4. Clicar em "Entrar"
+
+## Resultado Esperado: o sistema deve exibir uma mensagem de erro informando que o login falhou por senha incorrreta
+
+## Resultado Obtido: o sistema deve exibiu uma mensagem de erro informando que o login falhou por senha incorrreta
+
+*Status:* Passou
