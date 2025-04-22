@@ -1,0 +1,16 @@
+# Test Case - Mudança de idioma na Wikipedia
+
+*Objetivo:* Verificar se o site permite trocar o idioma da interface com sucesso.
+
+## Passos:
+1. Acessar o site: https://www.wikipedia.org/
+2. Clicar no idioma “Español” (ou qualquer outro que esteja disponível).
+3. Verificar se a página redireciona corretamente para o site em espanhol.
+
+## Resultado Esperado:
+A Wikipedia deve abrir a versão em espanhol do site, com os menus e conteúdos nesse idioma.
+
+## Resultado Obtido:
+A Wikipedia abriu a versão em espanhol do site, com os menus e conteúdos nesse idioma.
+
+*Status:* Passou
